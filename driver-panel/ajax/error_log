@@ -1,0 +1,4 @@
+[02-Jul-2022 06:00:16 America/Chicago] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home3/upickrid/public_html/driver-panel/ajax/add-driver.php on line 21
+[02-Jul-2022 06:00:16 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0KFwSt' to '' in /home3/upickrid/public_html/driver-panel/ajax/add-driver.php on line 21
+[02-Jul-2022 06:21:25 America/Chicago] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home3/upickrid/public_html/driver-panel/ajax/add-driver.php on line 21
+[02-Jul-2022 06:21:25 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpebyewr' to '../images/business_license/' in /home3/upickrid/public_html/driver-panel/ajax/add-driver.php on line 21
